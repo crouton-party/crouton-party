@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @crouton-party
-- 👀 I’m interested game development.
+- 👋 Hi, I’m @dustingarner
+- 👀 I’m interested in game development.
 - 🌱 I’m currently working on a puzzle game called Entwined.
